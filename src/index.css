@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color:slategray;
+}
+
+.slidercontainer{
+  margin:20px 50px 50px 20px;
+  }
+
+  .slidergroup{
+    display: flex;
+    align-items: center;
+    padding-bottom: 10px;
+  }
+
+.label{
+  padding-right:  10px; 
+  flex-basis: 10%;
+}
+ 
+.license{
+  font-size: 9px;
+}

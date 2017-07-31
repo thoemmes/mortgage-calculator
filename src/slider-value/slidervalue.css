@@ -1,0 +1,19 @@
+
+
+.slidervalue{
+  display: flex;  
+  align-items: center;
+  flex-basis: 100%;
+}
+.value{
+  border: none;
+  background-color: lightgrey;
+}
+
+.unit{
+  
+  align-items: center;
+  flex-basis: 1.5rem;
+  user-select: none;
+}
+

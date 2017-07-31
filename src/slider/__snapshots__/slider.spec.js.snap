@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Slider renders default cursor 1`] = `
+<div
+  className="slider"
+  onMouseDown={undefined}
+  onMouseLeave={[Function]}
+  onMouseMove={[Function]}
+  onMouseUp={undefined}
+  style={
+    Object {
+      "cursor": "default",
+    }
+  }
+>
+  <div
+    className="outer_handle"
+    draggable="false"
+    style={
+      Object {
+        "cursor": "default",
+        "marginLeft": "NaN%",
+      }
+    }
+  >
+    <span
+      className="handle"
+    >
+      IIII
+    </span>
+  </div>
+</div>
+`;
